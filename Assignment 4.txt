@@ -1,0 +1,25 @@
+1. Define Normalization. 
+Ans:
+Database normalization, or simply normalization, is the process of organizing the columns (attributes) and tables (relations) of a relational database to reduce data redundancy and improve data integrity.
+
+2. Enlist the advantages of normalizing database. 
+Ans:
+Normalization provides numerous benefits to a database. Some of the major benefits include the following :
+
+->Greater overall database organization
+->Reduction of redundant data
+->Data consistency within the database
+->A much more flexible database design
+->A better handle on database security
+
+3. Define Denormalization. 
+Ans:
+denormalization is the process of trying to improve the read performance of a database, at the expense of losing some write performance, by adding redundant copies of data or by grouping data.
+
+4. Define DDL and DML. 
+Ans:
+->DML is abbreviation of Data Manipulation Language. It is used to retrieve, store, modify, delete, insert and update data in database. Examples: SELECT, UPDATE, INSERT statements. 
+->DDL is abbreviation of Data Definition Language. It is used to create and modify the structure of database objects in database
+
+5. Enlist some commands of DDL.
+Ans:
